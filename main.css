@@ -684,6 +684,7 @@ body {
 @media screen and (max-width: 50em) {
   .contact-map {
     grid-column: 1 / -1;
+    height: 50rem;
   }
 }
 
